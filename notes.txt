@@ -1,0 +1,14 @@
+1 . config file should be case insensitive done
+2. one type for just texts and nothing else done
+3. text jamming should be case insensitive done 
+4. use of ini file
+5. Engine correction
+6. Complete the Poster function
+7. I have to append new urls/and everything into existing csv after checking duplicates using post id done
+8. Rename files as linkedin and give output csv in output folder done
+
+replace if there is a url  then its should replace certain inputs
+
+Kindly use None for only posts
+
+The main file is scrape.py

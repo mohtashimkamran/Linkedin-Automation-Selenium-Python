@@ -1,0 +1,4 @@
+S.No,URL,TYPE OF DATA,IGNORE CRITERIA
+1,https://www.linkedin.com/in/ajjames/detail/recent-activity/shares/,"All","If post has this text then ignore it, If post has this text2 then also ignore it"
+2,https://www.linkedin.com/in/amer-kayyal/detail/recent-activity/shares/,"Image",
+3,https://www.linkedin.com/in/prekshak/detail/recent-activity/shares/,"VIDEO",
